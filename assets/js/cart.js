@@ -45,7 +45,6 @@ function prikaziProizvodeCart(){
             
     }
     else{
-        alert("ne radi IF");
         products = "Nemate trenutno prozivoda u korpi...";
     } 
     
