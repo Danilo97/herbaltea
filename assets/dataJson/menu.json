@@ -1,0 +1,18 @@
+[
+    {
+        "text":"Pocetna",
+        "href":"index.html"
+    },
+    {
+        "text":"Proizvodi",
+        "href":"#prodContainter"
+    },
+    {
+        "text":"Partneri",
+        "href":"#partnerAnchor"
+    },
+    {
+        "text":"Kontakt",
+        "href":"#kontaktAnchor"
+    }
+]

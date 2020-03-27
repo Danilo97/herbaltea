@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "slika":{
+            "src":"assets/images/partners/partner1.png",
+            "alt":"Dolina Zdravlja"
+        }
+
+    },
+    {
+        "id":2,
+        "slika":{
+            "src":"assets/images/partners/partner2.png",
+            "alt":"Sibirsko Zdravlje"
+        }
+        
+    },
+    {
+        "id":3,
+        "slika":{
+            "src":"assets/images/partners/partner3.png",
+            "alt":"Crvenka Sokovi"
+        }
+        
+    },
+    {
+        "id":4,
+        "slika":{
+            "src":"assets/images/partners/partner4.png",
+            "alt":"Sume Zajecar"
+        }
+               
+    },
+    {
+        "id":5,
+        "slika":{
+            "src":"assets/images/partners/partner5.png",
+            "alt":"Cuvajmo Srbiju"
+        }
+            
+    },
+    {
+        "id":6,
+        "slika":{
+            "src":"assets/images/partners/partner6.png",
+            "alt":"Nasa Zemlja"
+        }
+                
+    }
+]

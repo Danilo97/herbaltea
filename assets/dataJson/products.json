@@ -1,0 +1,194 @@
+[
+    {
+        "id":1,
+        "slika":{
+            "src":"assets/images/products/p1.jpg",
+            "alt":"Beli Caj"
+        },
+        "naziv":"Beli Caj - White Bountea",
+        "opis":"Ovakav caj jos niste probali, dolazi pravo sa najvisih vrhova Himalaja gde ova biljka raste, beru je pastiri koji ujedno cuvaju ovde na istom predelu znaci ORGANSKO JE!",
+        "cena":{
+            "popust": true,
+            "stara": 489.99,
+            "trenutna": 430
+        },
+        "kategorija":"beli"
+
+    },
+    {
+        "id":2,
+        "slika":{
+            "src":"assets/images/products/p2.jpg",
+            "alt":"Zeleni Caj Bahama"
+        },
+        "naziv":"Zeleni Caj - Bahama Nights",
+        "opis":"Pravo sa Bahama, stize Bahama Nights, osetite tropsku atmosferu iste sekunde, narucite vec danas, Zadovoljstvo zagarantovano, kao i kvalitet! Probajte vec Danas!",
+        "cena":{
+            "popust": false,
+            "stara": 500,
+            "trenutna": 370
+        },
+        "kategorija":"zeleni"
+
+    },
+    {
+        "id":3,
+        "slika":{
+            "src":"assets/images/products/p3.jpg",
+            "alt":"Zeleni Caj Mohito"
+        },
+        "naziv":"Zeleni Caj - Fresh Mojito",
+        "opis":"Osetite ukus koktela dok u sebe unosite Zdravlje! Ako volite da ispijate koktele, Fresh Mojito je pravi izbor za Vas! Ovo je nas carobni napitak jer dok se osecate kao na plazi, unosite zdravlje!",
+        "cena":{
+            "popust": true,
+            "stara": 789.99,
+            "trenutna": 600
+        },
+        "kategorija":"zeleni"
+
+    },
+    {
+        "id":4,
+        "slika":{
+            "src":"assets/images/products/p4.jpg",
+            "alt":"Zeleni Caj Delicate Mango"
+        },
+        "naziv":"Zeleni Caj - Delicate Mango",
+        "opis":"Za prave obozavaoce tropskog voca, stize do Vase kuce Delicate Mango! Sa komadicima ovog predivnog voca koji upotpunjuju ukus ovog predivnog caja!",
+        "cena":{
+            "popust": false,
+            "stara": 500,
+            "trenutna": 420
+        },
+        "kategorija":"zeleni"
+
+    },
+    {
+        "id":5,
+        "slika":{
+            "src":"assets/images/products/p5.jpg",
+            "alt":"Zeleni Caj Gunpowder Green"
+        },
+        "naziv":"Zeleni Caj - Gunpowder Green",
+        "opis":"Za prave ljuditelje cistog zelenog caja, izdvajamo Gunpowder Green ukus! Ovaj caj ima sjajne benefite, tako jednostavan, a tako savrsen ukus! Morate probati!",
+        "cena":{
+            "popust": false,
+            "stara": 625.99,
+            "trenutna": 560
+        },
+        "kategorija":"zeleni"
+
+    },
+    {
+        "id":6,
+        "slika":{
+            "src":"assets/images/products/p6.jpg",
+            "alt":"Zeleni Caj Hugo Coctail"
+        },
+        "naziv":"Zeleni Caj - Hugo Coctail",
+        "opis":"Ovo je nas specijalan caj, njegov naziv spaja detinjsvo kao i secanja na dobre zabave! Hugo Coctail je pravi caj za Vas ako zelite da se prisetite starih dobrih vremena!",
+        "cena":{
+            "popust": true,
+            "stara": 530.99,
+            "trenutna": 490
+        },
+        "kategorija":"zeleni"
+
+    },
+    {
+        "id":7,
+        "slika":{
+            "src":"assets/images/products/p7.jpg",
+            "alt":"Crni Caj Earl Gray Passion"
+        },
+        "naziv":"Crni Caj - Earl Gray Passion",
+        "opis":"Ako ste spremni za udar strasti uz malo crnog caja, onda je Earl Gray Passion definitivno za Vas! Probudite strasti uz ovaj zdrav topli napitak!",
+        "cena":{
+            "popust": false,
+            "stara": 500,
+            "trenutna": 410
+        },
+        "kategorija":"crni"
+
+    },
+    {
+        "id":8,
+        "slika":{
+            "src":"assets/images/products/p8.jpg",
+            "alt":"Crni Caj Barbbery Melody"
+        },
+        "naziv":"Crni Caj - Barbbery Melody",
+        "opis":"Osecate se kao da Vam je potrebno malo muzike u ovom trenutku? Kada popijete Barbbery Melody iste sekunde cete osetiti harmoniju!",
+        "cena":{
+            "popust": true,
+            "stara": 490.99,
+            "trenutna": 430
+        },
+        "kategorija":"crni"
+
+    },
+    {
+        "id":9,
+        "slika":{
+            "src":"assets/images/products/p9.jpg",
+            "alt":"Crni Caj Isabella Grape"
+        },
+        "naziv":"Crni Caj - Isabella Grape",
+        "opis":"Ovakav caj jos niste probali, sa komadicima krupnog grozdja iz Japana i imenom kraljice, stize Isabella Grape!",
+        "cena":{
+            "popust": true,
+            "stara": 590.99,
+            "trenutna": 410
+        },
+        "kategorija":"crni"
+
+    },
+    {
+        "id":10,
+        "slika":{
+            "src":"assets/images/products/p10.jpg",
+            "alt":"Crni Caj Blue Berries Blues"
+        },
+        "naziv":"Crni Caj - Blue Berries Blues",
+        "opis":"Za sve ljubitelje blues muzike spremili smo ovaj famozni napitak! Kruze price da cim popijete solju ovog caja, dobijete blues gen i pocnete da svirate!",
+        "cena":{
+            "popust": false,
+            "stara": 500,
+            "trenutna": 400
+        },
+        "kategorija":"crni"
+
+    },
+    {
+        "id":11,
+        "slika":{
+            "src":"assets/images/products/p11.jpg",
+            "alt":"Crni Caj Sunny Lemon"
+        },
+        "naziv":"Crni Caj - Sunny Lemon",
+        "opis":"Nedostaje Vam leto? Sunny Lemon Vas pokriva sa svojim ukusom koji Vam budi lepe letnje uspomene dok traju zimski dani! Uverite se sami!",
+        "cena":{
+            "popust": true,
+            "stara": 820.99,
+            "trenutna": 720
+        },
+        "kategorija":"crni"
+
+    },
+    {
+        "id":12,
+        "slika":{
+            "src":"assets/images/products/p12.jpg",
+            "alt":"Crni Caj Summer Berries"
+        },
+        "naziv":"Crni Caj - Summer Berries",
+        "opis":"Poput Sunny Lemon-a, Sunny Berries igra istu ulogu, samo je pitanje da li ste u ovom trenutku vise za Limun ili Borovnicu! Neodlucni? probajte oba!",
+        "cena":{
+            "popust": false,
+            "stara": 620.99,
+            "trenutna": 530
+        },
+        "kategorija":"crni"
+
+    }
+]
